@@ -1,6 +1,6 @@
 # 📕Hover or click on the card to see what is inside. 💕
 
-[Live Demo: ]()
+[Live Demo: https://arundada9000.github.io/Card-Opening/](https://arundada9000.github.io/Card-Opening/)
 
 ## Desktop preview
 
@@ -67,7 +67,8 @@ Made By **Arun Neupane**
 I hereby declare anybody can use this code to their liking, but i donot give any permission over images , music or names used in this code so keep that in mind.
 
 _Couldn't edit it ?_
-**Tutorial Link**:
-My youtube channel : https://youtube.com/@arundada9000
+**Tutorial Link**: https://youtu.be/eA9TN6oGZLg
+
+**My youtube channel** : https://youtube.com/@arundada9000
 
 <img src="./preview/logo-circle.png" height="200">
