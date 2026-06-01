@@ -1,4 +1,4 @@
-# 📕Hover or click on the card to see what is inside. 💕
+﻿# Hover or click on the card to see what is inside. 
 
 [Live Demo: https://arundada9000.github.io/Card-Opening/](https://arundada9000.github.io/Card-Opening/)
 
@@ -17,13 +17,13 @@
 </p>
 ---
 
-A romantic and playful love letter where hovering or clicking on the cover reveals her photo and a beautiful message ❤️.
+A romantic and playful love letter where hovering or clicking on the cover reveals her photo and a beautiful message ❤.
 
 ---
 
-## 🛠️ How to Customize It
+##  How to Customize It
 
-### 🌸 Change the Image
+###  Change the Image
 
 <img src="./assets/image1.jpg" height="200">
 
@@ -38,7 +38,7 @@ A romantic and playful love letter where hovering or clicking on the cover revea
 
 ---
 
-### 💬 Update the Text Messages
+###  Update the Text Messages
 
 <p align="center">
 <img src="./preview/text1.png" height="200">
@@ -47,7 +47,7 @@ A romantic and playful love letter where hovering or clicking on the cover revea
 
 You can edit the right side page to have any message you want:
 
-### 🌐 Connect with Me
+###  Connect with Me
 
 I'm always open to collaborating on interesting projects or just chatting about tech!
 Feel free to reach out through any of the platforms below:
@@ -57,9 +57,9 @@ Feel free to reach out through any of the platforms below:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arundada9000)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/arundada9000) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arundada9000)
 
-_Made with ❤️ and a bit of knowledge._
+_Made with ❤ and a bit of knowledge._
 
-_I couldn’t send it to her, I hope you can 😁😁_
+_I couldn’t send it to her, I hope you can _
 
 Made By **Arun Neupane**
 **For educational purpose** on **code_with_ease** youtube channel.
@@ -72,3 +72,8 @@ _Couldn't edit it ?_
 **My youtube channel** : https://youtube.com/@arundada9000
 
 <img src="./preview/logo-circle.png" height="200">
+---
+
+## License
+
+This project is for educational and personal learning purposes only. Commercial use, public deployment, or any revenue-generating use requires explicit written permission from the author. See [LICENSE](LICENSE) for details.
